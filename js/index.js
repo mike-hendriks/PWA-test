@@ -6,7 +6,7 @@ const prompts = require("prompts");
 
 //Location of your subscribers file (normally they would be in a database)
 const yourSubscriberJSONFileURL =
-  "HTTPS://https://fervent-knuth-4b2b3e.netlify.com/data/subscribers.json)";
+  "https://fervent-knuth-4b2b3e.netlify.com/data/subscribers.json)";
 
 //Place your keys here
 webpush.setVapidDetails(
